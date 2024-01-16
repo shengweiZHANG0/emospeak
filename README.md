@@ -6,7 +6,7 @@ A blender(4.0) plugin for reconstructing a human head from a single image, with 
 support blender 4.0.
 1. download the released zip package, put it into `blender***/scripts/addons/`.
 
-2. download the [data.zip](), extract it into the plugin install dir - mh_admin. download the [data.bin](https://drive.google.com/file/d/1INX6exinaTuBinu3Pv5DYJJRdfRk8_Uc/view), put it into mh_anim(on my linux: `blender-4.0.2-linux-x64/4.0/scripts/addons/mh_anim`).
+2. download the [data.zip](https://drive.google.com/file/d/1SOXPyxppdtQqCbAgP9maew2lkVghh6na/view?usp=sharing), extract it into the plugin install dir - mh_admin. download the [data.bin](https://drive.google.com/file/d/1INX6exinaTuBinu3Pv5DYJJRdfRk8_Uc/view), put it into mh_anim(on my linux: `blender-4.0.2-linux-x64/4.0/scripts/addons/mh_anim`).
 
 4. search `mh_addon`, `edit-> preference -> Add-ons`, enable the plugin
     ![enable_plugin](https://github.com/shengweiZHANG0/head_talking/assets/109774030/1be002e7-c357-46d3-acd7-e963524b6694)
@@ -24,7 +24,7 @@ support blender 4.0.
 
    * copy `data/libs` into blender's python libs directory.
 
-         only windows need todo so, the result should be: `blender-4.0.2-windows-x64/4.0/python/libs/[*.lib]`
+     only windows need todo so, the result should be: `blender-4.0.2-windows-x64/4.0/python/libs/[*.lib]`
 
    * install third libs
 
