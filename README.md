@@ -1,5 +1,6 @@
 # head_talking
-A blender(4.0) plugin for reconstructing a human head from a single image, with the ability to input audio to drive speech.
+
+Embark on a revolutionary journey in 3D creation – our Blender 4.0 plugin merges [emoca](https://github.com/radekd91/emoca) and [faceformer](https://github.com/EvelynFan/FaceFormer) technologies, offering a seamless blend of emotive facial reconstruction and dynamic speech animation for an unparalleled creative experience.
 
 ## install
 
